@@ -17,7 +17,7 @@ Technologies used:
 - SQLite: Local data persistence.
 
 Output:
-http://192.168.0.102:8501
+https://spacexplorer-app.streamlit.app/
   
 Contact: 
 - Github- https://github.com/febisarju
