@@ -1,4 +1,4 @@
-# SpaceX Launch Analytics Dashboard
+# SpaceXplorer
 
 This project analyzes SpaceX launch data to explore trends, predict launch success, and present insights through an interactive dashboard built with Streamlit. Built as a portfolio piece to showcase data analysis, machine learning, and visualization skills.
 
