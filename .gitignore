@@ -1,0 +1,22 @@
+# SQLite database
+spacex_data.db
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments (if you use one)
+venv/
+env/
+.venv/
+
+# Streamlit-specific
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Miscellaneous
+*.log
+*.DS_Store  # macOS junk
+Thumbs.db   # Windows junk
