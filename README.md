@@ -1,6 +1,6 @@
 # SpaceXplorer
 
-This project analyzes SpaceX launch data to explore trends, predict launch success, and present insights through an interactive dashboard built with Streamlit. Built as a portfolio piece to showcase data analysis, machine learning, and visualization skills.
+This interactive Streamlit dashboard provides insights into SpaceX's past launches, exploring key trends, success rates, and mission outcomes. The project utilizes real-time API data from SpaceX, processes it for analysis, and visualizes critical metrics using Plotly.
 
 Features:
 - Data Fetching: Pulls real-time launch data from the SpaceX API.
