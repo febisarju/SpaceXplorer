@@ -15,6 +15,9 @@ Technologies used:
 - Plotly: Interactive charts.
 - Requests: API fetching.
 - SQLite: Local data persistence.
+
+Output:
+http://192.168.0.102:8501
   
 Contact: 
 - Github- https://github.com/febisarju
