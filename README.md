@@ -1,4 +1,4 @@
-# SpaceXplorer
+# SpaceXplorer: Launch Insights
 
 This interactive Streamlit dashboard provides insights into SpaceX's past launches, exploring key trends, success rates, and mission outcomes. The project utilizes real-time API data from SpaceX, processes it for analysis, and visualizes critical metrics using Plotly.
 
@@ -9,7 +9,7 @@ Features:
 - Visualizations: Bar charts, pie charts, and timelines built with Plotly.
   
 Technologies used:
-- Python: Core language.
+- Python(Visual Studio): Core language.
 - Streamlit: Frontend dashboard framework.
 - Pandas: Data wrangling.
 - Plotly: Interactive charts.
