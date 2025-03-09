@@ -21,3 +21,10 @@ https://spacexplorer-app.streamlit.app/
   
 Contact: 
 - Github- https://github.com/febisarju
+Requests: API fetching.
+SQLite: Local data storage.
+Output:
+SpaceXplorer App
+
+Contact:
+GitHub Profile
