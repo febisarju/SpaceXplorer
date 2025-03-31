@@ -21,6 +21,3 @@ https://spacexplorer-app.streamlit.app/
   
 Contact: 
 - Github- https://github.com/febisarju
-
-
-![Screenshot 2025-03-03 211851](https://github.com/user-attachments/assets/364dc345-d924-47a0-8d2f-3ca0c32f3199)
